@@ -1,0 +1,12 @@
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ touch info_system.sh
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ pico info-system.sh
+#!/bin/bash 
+# Menampilkan waktu saat ini
+echo "waktu saat ini: $(date) "
+# Menampilkan nama pengguna
+echo "nama pengguna: $(whoami) "
+# Menampilkan total penggunaan disk 
+echo "total penggunaan disk: "
+df -h
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ chmod +x info_system.sh
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ ./info_system.sh
