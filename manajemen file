@@ -1,0 +1,12 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use “gcloud config set project [PROJECT_ID]”
+g32_shintaqurrotaaini@cloudshell:~$ mkdir tugas_sistem_operasi
+g32_shintaqurrotaaini@cloudshell:~$ cd tugas_sistem_operasi
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ touch data1.txt
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ touch data2.txt
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ mkdir backup
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ mv data2.txt backup
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ ls -r
+data1.txt backup
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ ls backup
+data2.txt
