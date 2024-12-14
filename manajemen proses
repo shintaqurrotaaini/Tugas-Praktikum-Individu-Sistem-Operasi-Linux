@@ -1,0 +1,5 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use “gcloud config set project [PROJECT_ID]”
+g32_shintaqurrotaaini@cloudshell:~$ cd tugas_sistem_operasi
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ ps -aux
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ sudo kill -9 463
