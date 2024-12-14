@@ -1,0 +1,5 @@
+g32_shintaqurrotaaini@cloudshell:~$ cd tugas_sistem_operasi
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ touch script.sh
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ chmod 700 script.sh
+g32_shintaqurrotaaini@cloudshell:~/tugas_sistem_operasi$ ls -l
+-rwx------ 1 g32_shintaqurrotaaini g32_shintaqurrotaaini 0 Dec 13 02:24 script.sh
